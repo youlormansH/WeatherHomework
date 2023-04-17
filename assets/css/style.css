@@ -1,0 +1,25 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+}
+
+button{
+    background-color: red;
+}
+
+.row {
+    margin-left: 5px;
+}
+
+.search{
+    margin-top: 30px;
+}
+/* .weather{
+    display: none;
+} */
